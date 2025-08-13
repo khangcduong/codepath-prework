@@ -2,7 +2,7 @@
 
 Submitted by: **Khang Duong**
 
-**Name of your app** is an app that... [TODO] 
+**PALette AI** is an app that... [TODO] 
 
 Time spent: **4** hours spent in total
 
@@ -23,17 +23,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 1. Instagram
 - Sharing posts with other people through messages.
 - Bookmarking feature for favorite posts
+
 2. Outlook
 - It has a built in calendar.
 - There are options to select and move multiple emails at once.
+
 3. Pinterest
 - Bookmarking features via boards
 - Search bar with many results.
+
 4.Discord
 - Private chats & Messages
 - Voice Channels
 
-An app idea I have in mind is one that is tailored for traditional painters of whichever medium. Painters can submit their palette to the app. Then as they work on mixing colors throughout the painting process, they can scan the color that they are currently working with, it will be converted to a hexcode. They can then either scan a color that they want to achieve or input its hexcode. The app will then, using AI or some other method, recommend which color(s) from their palette that they should add to the current color to achieve the intended color.
+An app idea I have in mind is one that is tailored for traditional painters of whichever medium. Painters can submit their palette to the app. Then as they work on mixing colors throughout the painting process, they can scan the color that they are currently working with, it will be converted to a hexcode. They can then either scan a color that they want to achieve or input its hexcode. The app will then, using AI or some other method, recommend which color(s) from their palette that they should add to the current color to achieve the intended color. It will be named PALette AI.
 
 ## Notes
 
